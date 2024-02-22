@@ -5,4 +5,7 @@
 body {
     margin: 0;
     font-family: poppins;
+    width: calc( 100% );
+    max-width: calc( 100vw - 1em );
+    overflow-x: hidden;
 }
